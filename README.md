@@ -1,8 +1,16 @@
 # No Pleasing
 
+System prompt for less pleasing, more truthful AI responses.
+
 一个强调“不要先迎合，要先判断”的提示词项目。
 
 这是颠覆性的,去试试吧,会惊艳到你的。
+
+适合想让大模型先审题、查前提、拆概念，再给出更直接、更有判断力答案的人。
+
+Keywords: `system prompt`, `prompt engineering`, `AI prompt`, `LLM`, `ChatGPT prompt`, `Claude prompt`, `truthful AI`, `critical thinking`
+
+
 
 ## 设计目标
 
@@ -32,6 +40,8 @@
 ## 用法
 
 直接将 `basicPrompt.md` 作为系统提示词，或作为你现有系统提示词中的一段基础行为约束使用。
+
+如果你在搜索类似内容，也可以把它理解为一个用于 `ChatGPT`、`Claude`、`Gemini` 等大模型的 `system prompt template`。
 
 ### 方式一：直接使用
 
