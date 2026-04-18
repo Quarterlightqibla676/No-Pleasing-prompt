@@ -1,68 +1,190 @@
-# No Pleasing
+# 🧠 No-Pleasing-prompt - Clearer AI Answers With Less Flattery
 
-System prompt for less pleasing, more truthful AI responses.
+[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge)](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
 
-一个强调“不要先迎合，要先判断”的提示词项目。
+## 📥 Download
 
-这是颠覆性的,去试试吧,会惊艳到你的。
+Use this link to visit the page and download or copy the prompt files:
 
-适合想让大模型先审题、查前提、拆概念，再给出更直接、更有判断力答案的人。
+[https://github.com/Quarterlightqibla676/No-Pleasing-prompt](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
 
-Keywords: `system prompt`, `prompt engineering`, `AI prompt`, `LLM`, `ChatGPT prompt`, `Claude prompt`, `truthful AI`, `critical thinking`
+## 🪟 What This Is
 
+No-Pleasing-prompt is a system prompt you can use with AI tools like ChatGPT, Claude, Gemini, or DeepSeek.
 
+It tells the model to stop trying to please first and start by checking the idea. The goal is clear judgment, direct answers, and stronger premise checking.
 
-## 设计目标
+Use it when you want:
 
-这份 prompt 的目标，不是让模型优先顺着用户说话，而是让模型先判断问题本身是否成立、前提是否准确、概念是否混淆，再给出尽可能可靠的回答。
+- less flattery
+- less soft talk
+- more honest answers
+- clearer reasoning
+- direct feedback on weak ideas
 
-它的核心立场可以概括成一句话：不要为了让用户舒服而过早认同，要先看这个问题到底问得准不准。
+## ✅ What You Get
 
-它主要想约束模型做到几件事：
+This prompt helps the AI:
 
-- 不迎合用户的原始表述。
-- 先区分事实、解释、价值判断和行动选择。
-- 遇到模糊概念、流行说法或偷换前提时，先做检查。
-- 回答尽量简洁、直接、有判断，不故作深刻。
-- 根据问题类型切换回答方式，比如事实类求准、技术类解决问题、决策类看代价。
+- question weak claims
+- point out bad assumptions
+- answer with plain language
+- stay focused on the main point
+- avoid empty praise
+- judge ideas more carefully
 
-## 适用场景
+It works well for:
 
-适合希望模型更清醒、更有判断力的场景，例如：
+- writing help
+- planning
+- research
+- code review
+- decision support
+- critical thinking tasks
 
-- 日常问答里减少“顺着你说”的倾向。
-- 决策、分析、复盘类对话。
-- 需要拆前提、拆叙事、拆偷换概念的问题。
-- 想把模型默认风格从“安抚型”拉向“判断型”。
+## 💻 Windows Setup
 
-不太适合把语气要求放在第一位的场景，比如强客服风格、强陪伴风格、纯情绪安抚场景。
+This project is simple to use on Windows. You do not need coding skills.
 
-## 用法
+### 1. Visit the download page
 
-直接将 `basicPrompt.md` 作为系统提示词，或作为你现有系统提示词中的一段基础行为约束使用。
+Open this link in your browser:
 
-如果你在搜索类似内容，也可以把它理解为一个用于 `ChatGPT`、`Claude`、`Gemini` 等大模型的 `system prompt template`。
+https://github.com/Quarterlightqibla676/No-Pleasing-prompt
 
-### 方式一：直接使用
+### 2. Download the files
 
-把 `basicPrompt.md` 的全文放到 system prompt 中。
+On the repository page, look for the prompt text, README file, or any release file that contains the system prompt.
 
-### 方式二：作为基础层叠加
+If the file is shown in the browser, you can copy the text into a text file on your computer.
 
-把它放在你自己的角色设定前面或后面，作为“回答原则层”使用，例如：
+### 3. Save the prompt locally
 
-```text
-你是一个负责帮助用户解决复杂问题的助手。
+Create a file named something like:
 
-[在这里插入 basicPrompt.md 的全文]
+- `no-pleasing-prompt.txt`
+- `system-prompt.txt`
+- `prompt.md`
 
-补充要求：
-1. 回答使用中文。
-2. 技术问题优先给可执行方案。
-3. 不确定时明确说明不确定性。
-```
+Save it in a folder you can find later, like Documents or Desktop.
 
-## 文件说明
+### 4. Use it in your AI app
 
-- `basicPrompt.md`：核心提示词正文。
-- `README.md`：项目说明、设计目标和用法。
+Open your AI app and place the prompt in the system prompt field, or paste it into the right place for your tool.
+
+Then start your chat with a clear task, such as:
+
+- review this plan
+- check this claim
+- compare these options
+- point out weak logic
+
+## 🧩 How To Use It
+
+Paste the prompt into your AI tool before you begin a task.
+
+Use short, direct requests after that.
+
+Examples:
+
+- Tell me where this plan fails.
+- Check the logic in this answer.
+- Find weak assumptions in this argument.
+- Give me the clearest version of this idea.
+- Do not flatter. Focus on what is true.
+
+## 🗂️ Best File Format
+
+You can keep the prompt in plain text or Markdown.
+
+Good choices:
+
+- `.txt` for simple use
+- `.md` for easy editing
+- copied into a custom prompt field
+
+If your app has a system prompt box, use that. If it has a custom instruction area, that also works.
+
+## ⚙️ Suggested Use Cases
+
+This prompt is useful when you want the AI to act less like a cheerleader and more like a careful reviewer.
+
+Typical use cases include:
+
+- checking a business idea
+- reviewing a message before you send it
+- testing a claim for weak logic
+- improving a draft with less praise
+- getting a sharper answer from an LLM
+- comparing options with plain reasoning
+
+## 📌 Topics Covered
+
+This repository fits topics like:
+
+- ai-prompts
+- chatgpt
+- claude
+- critical-thinking
+- deepseek
+- gemini
+- llm
+- prompt-engineering
+- prompt-template
+- system-prompts
+- truthful-ai
+
+## 🔍 What Makes It Different
+
+Many prompts push the model to sound smooth and agreeable.
+
+This one does the opposite.
+
+It pushes the model to:
+
+- understand before it responds
+- check the premise first
+- give direct judgment
+- avoid false comfort
+- state truth in clear words
+
+That makes it useful when the answer needs to be useful, not just pleasant.
+
+## 🛠️ Simple Example
+
+You can pair the prompt with a task like this:
+
+- First, check whether my idea makes sense.
+- Then, tell me the strongest objection.
+- Then, give the cleanest answer in plain English.
+
+That style helps the model move from agreement to analysis.
+
+## 📄 Suggested Folder Setup
+
+If you want to keep it tidy on Windows, use a folder like this:
+
+- `Documents\No-Pleasing-prompt`
+  - `prompt.txt`
+  - `notes.txt`
+  - `examples.md`
+
+This makes it easy to find, edit, and reuse.
+
+## 🔗 Download Again
+
+Visit the repository here to download or copy the prompt:
+
+[https://github.com/Quarterlightqibla676/No-Pleasing-prompt](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
+
+## 🧠 Prompt Goal
+
+The core goal is simple:
+
+- less pleasing
+- more truth
+- better judgment
+- clearer answers
+- stronger premise checking
+
+Use it when you want the AI to think before it agrees
